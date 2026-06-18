@@ -206,9 +206,9 @@ For better performance, feature scaling can also be applied using StandardScaler
 
 ## 👨‍💻 Author
 
-**Allen Christian**
+**Allen Christian** | **Patent Holder**
 
-Aspiring AI & Machine Learning Engineer
+AI & Machine Learning Engineer
 
 ---
 
